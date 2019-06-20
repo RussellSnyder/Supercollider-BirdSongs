@@ -99,6 +99,6 @@ oriamp = Env(~getLevels.value(oriamp_bill),
 		\partialNumbers, [1, 2],
 		\partialAmps, [1, 0.04], \t_gate, 1]);
 });
+)
 
 ~orchard_oriole.start;
-)
